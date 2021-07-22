@@ -1,0 +1,12 @@
+body{
+    position: relative;
+}
+section{
+    padding: 9rem 0;
+}
+header{
+    padding: 9.5rem 0 6rem 0;
+}
+h2{
+    font-weight: 600;
+}
